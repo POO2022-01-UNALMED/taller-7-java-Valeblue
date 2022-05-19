@@ -1,5 +1,13 @@
 package comunicacion;
 
+
+
+
+
+
+
+
+
 public class Fabula extends Escrito {
 	
 	
@@ -49,4 +57,4 @@ public class Fabula extends Escrito {
 	}
 	
 
-}
+
